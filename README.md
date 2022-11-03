@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-Pinia-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vuex-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VueRouter-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)...(有待扩展)
+![](https://img.shields.io/badge/Tools-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a) ...(有待扩展)
 # 📈 统计
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=AnswerYYY&show_icons=true&theme=vue" alt="abhisheknaiidu" />
