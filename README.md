@@ -19,5 +19,6 @@
 ![](https://img.shields.io/badge/Tools-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a) ...(有待扩展)
 # 📈 统计
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=AnswerYYY&show_icons=true&theme=vue" alt="abhisheknaiidu" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AnswerYYY&show_icons=true&theme=vue" alt="abhisheknaiidu" /> -->
+  <img src="https://raw.githubusercontent.com/AnswerYYY/AnswerYYY/stats-output/stats.svg" height="150" alt="stats graph"  />
 </p>
